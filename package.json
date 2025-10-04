@@ -1,5 +1,5 @@
 "scripts": {
   "dev": "next dev",
-  "build": "next build && next export",   // ⬅️ MUHIM!
+  "build": "next build && next export",   
   "start": "npx serve out -l 3000"
 }
